@@ -1,5 +1,7 @@
 # tulip
 
+Tulip is a simple Gleam project for adding color to your terminal output. All 256 ANSI colors are supported.
+
 [![Package Version](https://img.shields.io/hexpm/v/tulip)](https://hex.pm/packages/tulip)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/tulip/)
 
